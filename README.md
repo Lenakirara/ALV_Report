@@ -2,6 +2,11 @@
 
 Projeto de atividade final do nível intermediário [ABAP 4 Girls](https://abapforgirls.tech/) 
 
+## Habilidades desenvolvidas:
+- Criação de estrutura
+- Desenvolvimento de relatórios em ALV
+- Utilização de performs na organização do código
+
 ## Objetivo do projeto
 Desenvolver um Report com botões que apresente 2 relatórios distintos. O primeiro será feito a exibição de materiais criados em um determinado período que não estejam 
 marcados para eliminação. O segundo será para exibição de materiais criados em um determinado período que estejam marcados para eliminação.
