@@ -12,9 +12,9 @@ Desenvolver um Report com botões que apresente 2 relatórios distintos. O prime
 marcados para eliminação. O segundo será para exibição de materiais criados em um determinado período que estejam marcados para eliminação.
 
 ## Especificações do projeto
-1. Botão 1: Materiais Criados <br>     
-2. Botão 2: Materiais Eliminados 
-3. Campo (de-até): Criado em (mara-ersda)
+1. Botão 1: `Materiais Criados` <br>     
+2. Botão 2: `Materiais Eliminados` 
+3. Campo (de-até): `Criado em` (mara-ersda)
 
 ![image](https://github.com/Lenakirara/ALV_Report/assets/45247383/3e07f046-0da6-46e6-80e5-cb922d3a4b15)
 
