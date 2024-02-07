@@ -1,6 +1,12 @@
 # Boas vindas ao repositório ALV Report!
 
-Projeto de atividade final do nível intermediário [ABAP 4 Girls](https://abapforgirls.tech/) 
+Projeto de atividade final do nível intermediário [ABAP 4 Girls](https://abapforgirls.tech/)
+
+<div align="center">
+     
+![image](https://github.com/Lenakirara/ALV_Report/assets/45247383/b8ee5a76-9b07-4669-9ec6-d1743c03c64b)
+
+</div>
 
 ## Habilidades desenvolvidas:
 - Criação de estrutura
