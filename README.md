@@ -1,6 +1,6 @@
 # Boas vindas ao repositório ALV Report!
 
-Projeto de atividade final do nível intermediário [ABAP 4 Girls](https://abapforgirls.tech/)
+Projeto de atividade final do nível intermediário do curso [ABAP 4 Girls](https://abapforgirls.tech/)
 
 <div align="center">
      
@@ -9,9 +9,22 @@ Projeto de atividade final do nível intermediário [ABAP 4 Girls](https://abapf
 </div>
 
 ## Habilidades desenvolvidas:
-- Criação de estrutura
-- Desenvolvimento de relatórios em ALV
-- Utilização de performs na organização do código
+1. Desenvolvimento de Relatórios ALV
+     - Criação de relatórios personalizados utilizando ABAP List Viewer (ALV) para exibição de dados.
+2. Implementação de Botões de Seleção
+     - Criação de botões interativos no report para exibir diferentes conjuntos de dados conforme a seleção do usuário.
+3. Manipulação de Dados em Tabelas Internas
+     - Utilização de tabelas internas para armazenar e manipular dados de forma eficiente.
+4. Uso de Funções Perform
+     - Organização e modularização do código com o uso de funções perform para melhorar a legibilidade e manutenção.
+5. Interação com Banco de Dados
+     - Realização de consultas SQL para selecionar dados específicos de tabelas do SAP.
+6. Mensagens de Feedback para Usuário
+     - Implementação de mensagens de feedback (sucesso e erro) para informar o status das operações ao usuário.
+7. Configuração de Layout ALV
+     - Configuração e personalização do layout do ALV, incluindo ordenação e otimização de colunas.
+8. Desenvolvimento de Telas de Seleção
+     - Criação de telas de seleção para filtragem de dados conforme critérios definidos pelo usuário.
 
 ## Objetivo do projeto
 Desenvolver um Report com botões que apresente 2 relatórios distintos. O primeiro será feito a exibição de materiais criados em um determinado período que não estejam 
